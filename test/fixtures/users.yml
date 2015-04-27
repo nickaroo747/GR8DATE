@@ -1,9 +1,10 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
+<<<<<<< HEAD
 one:
   name: MyString
   email: MyString
 
-two:
-  name: MyString
-  email: MyString
+
+
+>>>>>>> 580d2218857b7f7429f4206bb7012bbe5ff1e299
