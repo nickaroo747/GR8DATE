@@ -1,0 +1,2 @@
+class NickController < ApplicationController
+end
